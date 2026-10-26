@@ -150,7 +150,7 @@ RectTransform:
   m_GameObject: {fileID: 36718758}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.54365945, y: 0.7043253, z: 0.7043253}
+  m_LocalScale: {x: 0.7043253, y: 0.7043253, z: 0.7043253}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2052942058}
@@ -183,7 +183,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 421c95684fd870f4e8d48450d15b9f2e, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -1490,7 +1490,7 @@ RectTransform:
   m_GameObject: {fileID: 261785301}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0926886, y: 0.63860255, z: 0.32837158}
+  m_LocalScale: {x: 0.63860255, y: 0.63860255, z: 0.63860255}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 258780525}
@@ -1523,7 +1523,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: f382dcfebe22ddf4c8578f046ea44fd3, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -3096,7 +3096,7 @@ RectTransform:
   m_GameObject: {fileID: 468508379}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9082046, y: 0.5859385, z: 0.5859385}
+  m_LocalScale: {x: 0.5859385, y: 0.5859385, z: 0.5859385}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1696519450}
@@ -3129,7 +3129,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 827e3cd0b5d379948b64ea06a0682fb0, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -4897,7 +4897,7 @@ RectTransform:
   m_GameObject: {fileID: 869518820}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.0692023, y: 0.763716, z: 0.763716}
+  m_LocalScale: {x: 0.763716, y: 0.763716, z: 0.763716}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1458034595}
@@ -4930,7 +4930,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 0f338d3c4ce551e419d25a3a07ab9a2e, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -6584,7 +6584,7 @@ RectTransform:
   m_GameObject: {fileID: 1148309149}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.92641145, y: 0.5929033, z: 0.5929033}
+  m_LocalScale: {x: 0.5929033, y: 0.5929033, z: 0.5929033}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 962726817}
@@ -6617,7 +6617,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: cb2f8997c3b93ab4e85ae6210acf1200, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7198,7 +7198,7 @@ RectTransform:
   m_GameObject: {fileID: 1301927993}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.47591713, y: 0.73216903, z: 0.73216903}
+  m_LocalScale: {x: 0.73216903, y: 0.73216903, z: 0.73216903}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 784979728}
@@ -7231,7 +7231,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: e87c16f9ddc7eed42905259c5587c2ef, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -7543,7 +7543,7 @@ RectTransform:
   m_GameObject: {fileID: 1391719949}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.42968863, y: 0.6138058, z: 0.6138058}
+  m_LocalScale: {x: 0.6138058, y: 0.6138058, z: 0.6138058}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 514332480}
@@ -7576,7 +7576,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 3ecf0cc2f13a21a419671b22335e18ea, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9094,7 +9094,7 @@ RectTransform:
   m_GameObject: {fileID: 1595576571}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5269991, y: 0.64861435, z: 0.64861435}
+  m_LocalScale: {x: 0.64861435, y: 0.64861435, z: 0.64861435}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 827276064}
@@ -9127,7 +9127,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: bc2757af9624cbb449ff238723efe855, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -9467,7 +9467,7 @@ RectTransform:
   m_GameObject: {fileID: 1621715884}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.9516671, y: 0.7182393, z: 0.7182393}
+  m_LocalScale: {x: 0.7182393, y: 0.7182393, z: 0.7182393}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1620283324}
@@ -9500,7 +9500,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: e7f87e4d6fa5035488d7e1d90eb25dfd, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10363,7 +10363,7 @@ RectTransform:
   m_GameObject: {fileID: 1840268898}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.39896962, y: 0.61379004, z: 0.61379004}
+  m_LocalScale: {x: 0.61379004, y: 0.61379004, z: 0.61379004}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 540848145}
@@ -10396,7 +10396,7 @@ MonoBehaviour:
       m_Calls: []
   m_Sprite: {fileID: 21300000, guid: 6f60aedb5fc32674e9cfe3278e5430a4, type: 3}
   m_Type: 0
-  m_PreserveAspect: 0
+  m_PreserveAspect: 1
   m_FillCenter: 1
   m_FillMethod: 4
   m_FillAmount: 1
@@ -10671,10 +10671,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_UiScaleMode: 0
+  m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 800, y: 600}
+  m_ReferenceResolution: {x: 1080, y: 1920}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
